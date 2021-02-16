@@ -7,6 +7,7 @@ This project is licensed under the Apache Software License, version 2.0 except a
 ## Administration
 - Hostname: vhcala4hci
 - Default Password: Ldtf5432
+- Setup Instructions https://hub.docker.com/_/sap-abap-trial/plans/ac8a4f9b-ae29-4afa-9b39-25aeea24b821?tab=instructions
 
 ### Shell
 ```shell
