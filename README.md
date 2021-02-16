@@ -17,6 +17,12 @@ su - a4hadm
 /usr/sap/hostctrl/exe/sapcontrol -nr 0 -function StopSystem
 ```
 
+### ABAP Status
+```shell
+su - a4hadm
+dpmon 0
+```
+
 ### HANA Stop
 ```shell
 su - hdbadm
